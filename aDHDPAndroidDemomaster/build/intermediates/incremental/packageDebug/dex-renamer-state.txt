@@ -1,0 +1,7 @@
+#Thu Mar 23 21:02:12 CST 2017
+base.0=C\:\\Users\\Administrator\\Desktop\\MyApplication\\aDHDPAndroidDemomaster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5beb3a4d23a79774f01279313cf3cdad51bbedcc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Administrator\\Desktop\\MyApplication\\aDHDPAndroidDemomaster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_53ecc2e804aed9a21718eff7791dffd662fec800\\classes.dex
+base.1=C\:\\Users\\Administrator\\Desktop\\MyApplication\\aDHDPAndroidDemomaster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_53ecc2e804aed9a21718eff7791dffd662fec800
+file.0=C\:\\Users\\Administrator\\Desktop\\MyApplication\\aDHDPAndroidDemomaster\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5beb3a4d23a79774f01279313cf3cdad51bbedcc\\classes.dex

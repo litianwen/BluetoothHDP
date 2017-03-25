@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MyApplication\\aDHDPAndroidDemomaster\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\led_on.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\MyApplication\\aDHDPAndroidDemomaster\\src\\main\\res\\drawable-xhdpi\\led_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MyApplication\\aDHDPAndroidDemomaster\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\MyApplication\\aDHDPAndroidDemomaster\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MyApplication\\aDHDPAndroidDemomaster\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\led_off.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\MyApplication\\aDHDPAndroidDemomaster\\src\\main\\res\\drawable-xhdpi\\led_off.png"
+    }
+]
